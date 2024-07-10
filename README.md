@@ -1,2 +1,2 @@
 # Snippet
-A python project that allows you to save and reload short code snippets to a server and reuse them. Additionally, you can create new programming languages and functions that are executed using AI.
+A python project that allows you to save and reload short code snippets to a server and reuse them. Additionally, you can create brand new programming languages with equivalent of sudo code and snippet will execute those through AI. Snippet has 2 modes; amethyst-001 which runs any programming languages, even completely made up/nonexistent ones and jade-001 which runs purely python but far faster as it doesn't use AI
